@@ -3,7 +3,7 @@
 ### Deployed Link
 
 - Live link: https://githubdashboardassignment.netlify.app/
-- Repo Link: https://github.com/prajesh9921/Github-Dashboard-Assignment.git
+- Repo Link: https://github.com/prajesh9921/Github-Dashboard-Assignment
 
 ## Getting Started
 
