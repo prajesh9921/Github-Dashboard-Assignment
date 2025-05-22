@@ -1,0 +1,32 @@
+.search-bar {
+  width: 100%;
+  max-width: 42rem;
+  margin: 0 auto;
+
+  &__group {
+    display: flex;
+  }
+
+  &__input {
+    flex-grow: 1;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+
+  &__button {
+    margin-left: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+
+    &:hover {
+      background-color: #1d4ed8;
+    }
+  }
+}

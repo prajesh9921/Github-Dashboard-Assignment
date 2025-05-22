@@ -1,0 +1,23 @@
+.loading-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2.5rem 0;
+
+  &__circle {
+    height: 3rem;
+    width: 3rem; 
+    border-radius: 50%;
+    border-bottom: 2px solid #2563eb; 
+    animation: spin 1s linear infinite;
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
