@@ -2,8 +2,8 @@
 
 ### Deployed Link
 
-- Live link:
-- Repo Link:
+- Live link: https://githubdashboardassignment.netlify.app/
+- Repo Link: https://github.com/prajesh9921/Github-Dashboard-Assignment.git
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ Follow these steps to run the application locally:
 1. Clone the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/prajesh9921/Github-Dashboard-Assignment.git
 
    ```
 
